@@ -1,0 +1,14 @@
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\obj\Debug\net8.0\FileAnalyzerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\obj\Debug\net8.0\FileAnalyzerProject.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\obj\Debug\net8.0\FileAnalyzerProject.AssemblyInfo.cs
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\obj\Debug\net8.0\FileAnalyzerProject.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\bin\Debug\net8.0\FileAnalyzerProject.exe
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\bin\Debug\net8.0\FileAnalyzerProject.deps.json
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\bin\Debug\net8.0\FileAnalyzerProject.runtimeconfig.json
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\bin\Debug\net8.0\FileAnalyzerProject.dll
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\bin\Debug\net8.0\FileAnalyzerProject.pdb
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\obj\Debug\net8.0\FileAnalyzerProject.dll
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\obj\Debug\net8.0\refint\FileAnalyzerProject.dll
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\obj\Debug\net8.0\FileAnalyzerProject.pdb
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\obj\Debug\net8.0\FileAnalyzerProject.genruntimeconfig.cache
+C:\Users\moham\source\repos\FileAnalyzerProject\FileAnalyzerProject\obj\Debug\net8.0\ref\FileAnalyzerProject.dll
